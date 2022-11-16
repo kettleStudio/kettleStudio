@@ -37,8 +37,8 @@ www.kettleStudio.org
 ### KettleStudio Long-Term Support(LTS): 
 
 KettleStudio Release      Release Type      Last Planned Update      End of Life
-### 9                         LTS               2029-07                  2029-10
-### 8                         LTS               2027-07                  2027-09
+- 9                         LTS               2029-07                  2029-10
+- 8                         LTS               2027-07                  2027-09
 Note: KettleStudio adopts the same Long-Term Support (LTS) as Amazon Corretto
 
 
@@ -62,8 +62,8 @@ Corretto is certified by Amazon to meet the Java SE standard and can be used as 
 * Note 3:
 Corretto's support calendar (by Amazon)
 Corretto Release      Release Type      GA Date        Last Planned Update      End of Life
-### 17                    LTS               2021-09-22     2029-07                  2029-10
-### 11                    LTS               2019-03-15     2027-07                  2027-09
-### 8                     LTS               2019-01-31     2026-04                  2026-06
+- 17                    LTS               2021-09-22     2029-07                  2029-10
+- 11                    LTS               2019-03-15     2027-07                  2027-09
+- 8                     LTS               2019-01-31     2026-04                  2026-06
 
 *** END ***
