@@ -26,7 +26,7 @@ KettleStudio.org manages the official KettleStudio central repository
 
 ### Supported Operating Systems:
 
-- Fedora Linux (Preferred)
+- Fedora Linux 
 - Mac OS
 - Windows
 - and other Linux systems
