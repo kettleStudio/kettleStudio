@@ -35,11 +35,9 @@ www.kettleStudio.org
 
 
 ### KettleStudio Long-Term Support(LTS): 
+- KettleStudio Release: 9     Release Type: LTS      Last Planned Update: 2029-07      End of Life:2029-10
+- KettleStudio Release: 8     Release Type: LTS      Last Planned Update: 2027-07      End of Life:2027-10
 
-KettleStudio Release      Release Type      Last Planned Update      End of Life
-- 9                         LTS               2029-07                  2029-10
-- 8                         LTS               2027-07                  2027-09
-Note: KettleStudio adopts the same Long-Term Support (LTS) as Amazon Corretto
 
 
 
@@ -53,17 +51,16 @@ Please visit the official site: www.kettleStudio.org
 ### Java JDK LTS Support:
 KettleStudio supports the proven JDK: Corretto LTS (* Note 1, 2, 3, see below)
 
-* Note 1:
+Note 1:
 Corretto from Amazon is a multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK). Corretto comes with long-term support that will include performance enhancements and security fixes. Amazon runs Corretto internally on thousands of production services and Corretto is certified as compatible with the Java SE standard. With Corretto, you can develop and run Java applications on popular operating systems, including Linux, Windows, and macOS.
 
-* Note 2:
+Note 2:
 Corretto is certified by Amazon to meet the Java SE standard and can be used as a drop-in replacement for many Java SE distributions. Amazon provides quarterly updates that include performance enhancements and security fixes critical for enterprise application development.
 
-* Note 3:
+Note 3:
 Corretto's support calendar (by Amazon)
-Corretto Release      Release Type      GA Date        Last Planned Update      End of Life
-- 17                    LTS               2021-09-22     2029-07                  2029-10
-- 11                    LTS               2019-03-15     2027-07                  2027-09
-- 8                     LTS               2019-01-31     2026-04                  2026-06
+- Corretto Release: 17     Release Type: LTS      Last Planned Update: 2029-07      End of Life:2029-10
+- Corretto Release: 11     Release Type: LTS      Last Planned Update: 2027-07      End of Life:2027-10
+- Corretto Release: 8      Release Type: LTS      Last Planned Update: 2026-04      End of Life:2026-06
 
 *** END ***
