@@ -14,7 +14,7 @@ The Apache License, Version 2.0 (the "License") License at http://www.apache.org
 ### About KettleStudio.org:
 
 KettleStudio.org manages the official KettleStudio central repository.
-www.kettleStudio.org
+(www.kettleStudio.org)
 
 
 
@@ -37,7 +37,6 @@ www.kettleStudio.org
 ### KettleStudio Long-Term Support(LTS): 
 - KettleStudio Release: 9     Release Type: LTS      Last Planned Update: 2029-07      End of Life:2029-10
 - KettleStudio Release: 8     Release Type: LTS      Last Planned Update: 2027-07      End of Life:2027-10
-
 
 
 
