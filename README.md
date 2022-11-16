@@ -61,6 +61,6 @@ Note 3:
 Corretto's support calendar (by Amazon)
 - Corretto Release: 17 -|- Release Type: LTS -|- End of Life: 2029-10
 - Corretto Release: 11 -|- Release Type: LTS -|- End of Life: 2027-10
-- Corretto Release:  8 -|- Release Type: LTS -|- End of Life: 2026-06
+- Corretto Release: 08 -|- Release Type: LTS -|- End of Life: 2026-06
 
 *** END ***
