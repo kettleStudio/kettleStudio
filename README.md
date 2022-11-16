@@ -18,6 +18,12 @@ KettleStudio.org manages the official KettleStudio central repository.
 
 
 
+### KettleStudio Long-Term Support(LTS): 
+- KettleStudio Release: 9     Release Type: LTS      Last Planned Update: 2029-07      End of Life:2029-10
+- KettleStudio Release: 8     Release Type: LTS      Last Planned Update: 2027-07      End of Life:2027-10
+
+
+
 ### Supported Operating Systems:
 
 - Fedora Linux (Preferred)
@@ -32,11 +38,6 @@ KettleStudio.org manages the official KettleStudio central repository.
 - MicroSoft Azure
 - Google Cloud
 - and other Clouds that support Linux instances (e.g. Fedora, Debian, RedHat, Ubuntu, etc)
-
-
-### KettleStudio Long-Term Support(LTS): 
-- KettleStudio Release: 9     Release Type: LTS      Last Planned Update: 2029-07      End of Life:2029-10
-- KettleStudio Release: 8     Release Type: LTS      Last Planned Update: 2027-07      End of Life:2027-10
 
 
 
