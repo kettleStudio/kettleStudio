@@ -13,7 +13,7 @@ The Apache License, Version 2.0 (the "License") License at http://www.apache.org
 
 ### About KettleStudio.org:
 
-KettleStudio.org manages the official KettleStudio central repository.
+KettleStudio.org manages the official KettleStudio central repository
 (www.kettleStudio.org)
 
 
