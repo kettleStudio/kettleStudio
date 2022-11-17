@@ -45,21 +45,24 @@ KettleStudio.org manages the official KettleStudio central repository
 
 
 
-### Supported Cloud Platforms
-- Amazon AWS
-- MicroSoft Azure
+### Supported Platforms
+- On-premises servers
+- Destop computers
+- Dockers
+- Amazon AWS Cloud
+- MicroSoft Azure Cloud
 - Google Cloud
 - and other Clouds that support Linux instances (e.g. Fedora, Debian, RedHat, Ubuntu, etc)
 
 
 
-### Professional Services:
+### Professional Services
 Commercial support is available from many companies providing professional services to the KettleStudio.
 Please visit the official site: www.kettleStudio.org
 
 
 
-### Java JDK LTS Support:
+### Java JDK LTS Support
 KettleStudio supports the proven JDK: Corretto LTS (* Note 1, 2, 3, see below)
 
 Note 1:
