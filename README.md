@@ -57,8 +57,8 @@ KettleStudio.org manages the official KettleStudio central repository
 
 
 
-### Professional Services
-Commercial support is available from many companies providing professional services to the KettleStudio.
+### Professional Services Provided?
+Yes, commercial support is available from many companies providing professional services to the KettleStudio.
 Please visit the official site: www.kettleStudio.org
 
 
