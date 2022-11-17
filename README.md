@@ -6,7 +6,10 @@
 
 With an intuitive easy-to-use graphical design environment, and a proven, scalable architecture, KettleStudio delivers powerful data transformation capabilities in the open and innovative approach. Moreover, basing on Kettle, KettleStudio is constantly enhanced with Data Ledger Technologies with Block Chain APIs.  
 
-KettleStudio is licensed under Apache 2.0 license: 
+
+
+### License
+ - KettleStudio is licensed under Apache 2.0 license
  - The Apache License, Version 2.0 (the "License") License at http://www.apache.org/licenses/LICENSE-2.0
 
 
