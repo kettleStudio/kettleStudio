@@ -18,7 +18,7 @@ With an intuitive easy-to-use graphical design environment, and a proven, scalab
  - KettleStudio adopts "Amazon Corretto Java" which is proven in Amazon on thousands of Amazon production services
  - KettleStudio has over 11 years non-stop active developments and improvements (the latest ones like Block Chain APIs) 
  - KettleStudio comes with longer LTS (Long-Term Support): 8 years, which would be 4 times longer than other data tools
- - KettleStudio is licensed under the  commercial friendly license, thus can be used for any purposes
+ - KettleStudio is licensed under the  commercial friendly license (Apache 2.0), thus it can be used for any purposes
  - KettleStudio supports Block Chains
  - Easy to deploy and support large scale deployments
 
