@@ -16,7 +16,7 @@ The Apache License, Version 2.0 (the "License") License at http://www.apache.org
  - KettleStudio has over 11 years non-stop active developments and improvements
  - KettleStudio comes with longer LTS (Long-Term Support): 8 years, which would be 4 times longer than other data tools
  - KettleStudio is licensed under the  comercial friendly license, thus can be used for any purposes
- - KettleStudio supports Blockchains
+ - KettleStudio supports Block Chains
  - Easy to deploy and support large scale
 
 
