@@ -13,11 +13,11 @@ KettleStudio is licensed under Apache 2.0 license:
 
 ### More about KettleStudio: Benefits
  - KettleStudio adopts "Amazon Corretto Java" which is proven in Amazon on thousands of Amazon production services
- - KettleStudio has over 11 years non-stop active developments and improvements
+ - KettleStudio has over 11 years non-stop active developments and improvements (the latest ones, Block Chain APIs, 
  - KettleStudio comes with longer LTS (Long-Term Support): 8 years, which would be 4 times longer than other data tools
  - KettleStudio is licensed under the  comercial friendly license, thus can be used for any purposes
  - KettleStudio supports Block Chains
- - Easy to deploy and support large scale
+ - Easy to deploy and support large scale deployments
 
 
 
