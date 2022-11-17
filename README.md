@@ -33,8 +33,8 @@ KettleStudio.org manages the official KettleStudio central repository
 
 
 ### KettleStudio Long-Term Support (LTS): 
-- KettleStudio Release: 9 -|- Release Type: LTS (8 years) -|- End of Life: 2029-10-31  
-- KettleStudio Release: 8 -|- Release Type: LTS (8 years) -|- End of Life: 2027-10-31
+- Production-Ready version: KettleStudio Release: 9 -|- Release Type: LTS (8 years) -|- End of Life: 2029-10-31  
+- Production-Ready version: KettleStudio Release: 8 -|- Release Type: LTS (8 years) -|- End of Life: 2027-10-31
 
 
 
