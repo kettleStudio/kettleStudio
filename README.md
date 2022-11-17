@@ -72,7 +72,7 @@ Note 1:
 Note 2:
 - Corretto is certified by Amazon to meet the Java SE standard and can be used as a drop-in replacement for many Java SE distributions. Amazon provides quarterly updates that include performance enhancements and security fixes critical for enterprise application development.
 
-Note 3:Corretto's support calendar (by Amazon)
+Note 3: Corretto's support calendar (by Amazon)
 - Corretto Release: 17 -|- Release Type: LTS -|- End of Life: 2029-10
 - https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html
 - Corretto Release: 11 -|- Release Type: LTS -|- End of Life: 2027-10
