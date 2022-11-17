@@ -38,7 +38,7 @@ KettleStudio.org manages the official KettleStudio central repository
 
 
 ### Supported Operating Systems
-- Fedora Linux  (Something that is interesting about who use Fedora Linux: Linus Torvalds, creator of the Linux, uses Fedora) 
+- Fedora Linux  (Something that is interesting, about who use Fedora Linux: Linus Torvalds, creator of the Linux, also uses Fedora) 
 - Mac OS
 - Windows
 - and other Linux systems
