@@ -63,7 +63,7 @@ Please visit the official site: www.kettleStudio.org
 
 
 ### Java JDK LTS Support
-KettleStudio supports the proven JDK: Corretto LTS (* Note 1, 2, 3, see below)
+KettleStudio supports the proven JDK: Corretto LTS from Amazon (* Note 1, 2, 3, see below)
 
 Note 1:
 - Corretto from Amazon is a multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK). Corretto comes with long-term support that will include performance enhancements and security fixes. Amazon runs Corretto internally on thousands of production services and Corretto is certified as compatible with the Java SE standard. With Corretto, you can develop and run Java applications on popular operating systems, including Linux, Windows, and macOS.
